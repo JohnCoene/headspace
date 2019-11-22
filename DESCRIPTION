@@ -1,0 +1,15 @@
+Package: headspace
+Title: Give Your Apps Some Headroom
+Version: 1.0.0.9000
+Authors@R: 
+    person(given = "Jean-Philippe",
+           family = "Coene",
+           role = c("aut", "cre"),
+           email = "jcoenep@gmail.com")
+Description: Give your apps some headroom. Hide your header until you need it.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.0
+Imports:
+    shiny
